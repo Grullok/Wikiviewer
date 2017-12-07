@@ -1,0 +1,23 @@
+.container-fluid {
+  background-color: azure;
+}
+
+h1 {
+  margin: 100px;
+}
+
+button {
+  margin-top: 15px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+#searchBox {
+    margin-bottom: 20px;
+}
